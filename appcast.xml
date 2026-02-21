@@ -3,6 +3,19 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.2</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix suara adzan tidak berbunyi saat waktu sholat tiba</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 15:23:14 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.2/RamadhanBar-1.0.2.dmg" length="54659669" type="application/octet-stream" sparkle:edSignature="EgSZUamcsO/E5RCShc+gxPY/msPUVbkdVPbe8xPyPosktCgicSkrQ+6b7sdVXrkm1osOLG5nVCClG+oJD9hxDQ=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <description><![CDATA[
                 <ul>
