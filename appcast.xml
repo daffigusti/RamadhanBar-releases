@@ -3,6 +3,20 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.4</title>
+            <description><![CDATA[
+                <ul>
+                    <li>3 suara adzan dipindah ke on-demand download — ukuran app jauh lebih kecil</li>
+                    <li>Hanya suara Nasser Al-Qatami yang bundled, sisanya didownload saat dipilih</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 17:03:50 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.4/RamadhanBar-1.0.4.dmg" length="3465645" type="application/octet-stream" sparkle:edSignature="WcCAm7qH5iZPzWv3d/W8kqhDQRH9rTiinzrvf/sykAzQj5PyBhDBlg0cEvIwIN2XSyqcMHSeKQa9if2fYBevAQ=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <description><![CDATA[
                 <ul>
