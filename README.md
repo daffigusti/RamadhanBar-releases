@@ -8,6 +8,20 @@ Aplikasi menu bar macOS untuk menampilkan waktu sholat dan jadwal puasa Ramadhan
   </a>
 </p>
 
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/app-with-background-dynamic.jpeg" width="280" alt="Panel dengan latar dinamis">
+  &nbsp;&nbsp;
+  <img src="screenshots/app-no-background.jpeg" width="280" alt="Panel tanpa latar">
+</p>
+
+<p align="center">
+  <img src="screenshots/setting-umum.png" width="380" alt="Pengaturan Umum">
+  &nbsp;&nbsp;
+  <img src="screenshots/setting-notifikasi.png" width="380" alt="Pengaturan Notifikasi">
+</p>
+
 ## Fitur
 
 - Waktu sholat 6 waktu (Subuh, Syuruk, Zuhur, Asar, Maghrib, Isya)
