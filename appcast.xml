@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Ramadhan Bar Updates</title>
-    <description>Pembaruan terbaru untuk Ramadhan Bar</description>
-    <language>id</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RamadhanBar</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 21 Feb 2026 13:54:55 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.0/RamadhanBar-1.0.0.dmg" length="51859729" type="application/octet-stream" sparkle:edSignature="xZVRXM78Gw0gQ8o3cTHXhMZD5m5iOgefOqYCB8Er/gmbHQamhmhHRWXBeTY0L11UdGhLj+i6mg9cQ3XwCeeSCA=="/>
+        </item>
+    </channel>
 </rss>
