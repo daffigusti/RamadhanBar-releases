@@ -3,6 +3,19 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.6</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Dukungan Universal Binary — sekarang bisa diinstall di MacBook Intel dan Apple Silicon</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 22:00:00 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.6/RamadhanBar-1.0.6.dmg" length="4606277" type="application/octet-stream" sparkle:edSignature="xMGrDikmqJYbzno/IYUAEljfLBn8zKEmB5wACs2VWw6OPBA2rbSLiny/4d/AxJsVdlPt9+hFyJVB/7ar17CRBA=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
             <description><![CDATA[
                 <ul>
