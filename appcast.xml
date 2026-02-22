@@ -3,6 +3,22 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.5</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix countdown stuck di 0:00 setelah waktu sholat masuk</li>
+                    <li>Countdown merah kedip saat kurang dari 5 menit menjelang waktu sholat</li>
+                    <li>Hilangkan focus ring biru pada tombol tab dan bottom bar</li>
+                    <li>Perlebar area pengaturan</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 11:13:29 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.5/RamadhanBar-1.0.5.dmg" length="3473995" type="application/octet-stream" sparkle:edSignature="5VJhkfYeTrL7Y1+i4Ad7VL2EoSc2yN1jTS26oX8FEg2Rl3mVI6Xz364/9yolHCRvgAgC5rQRIXLquodMO5WcAQ=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <description><![CDATA[
                 <ul>
