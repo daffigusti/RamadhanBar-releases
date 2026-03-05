@@ -3,15 +3,128 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.9</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix suara adzan tidak berbunyi saat waktu sholat tiba</li>
+                    <li>Pengaturan koreksi tanggal Hijriyah</li>
+                    <li>Tampilan kalender di tab Bulan</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 05 Mar 2026 19:00:00 +0700</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.9/RamadhanBar-1.0.9.dmg" length="5444605" type="application/octet-stream" sparkle:edSignature="KvCdfyc2/zX2dj+bfnSO6lfoTrKS+QqcySlzQBvtmaoMBIh9saOqDyJpnftyyUxte1a3eOwM9weaCDHXlJXSAA=="/>
+        </item>
+        <item>
+            <title>1.0.8</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Apple notarization untuk keamanan macOS Gatekeeper</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 05 Mar 2026 11:00:00 +0700</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.8/RamadhanBar-1.0.8.dmg" length="4015895" type="application/octet-stream" sparkle:edSignature="Gy5Iveiqt7oaiPSJBNzWH2wjXvcQuX1/XN6fD3THEYMqooJO3SYLTHCGV3PysMT+FU1VugPY+vpLdgfFMKg2Dw=="/>
+        </item>
+        <item>
+            <title>1.0.7</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Shortcut keyboard global (Cmd+Shift+P) untuk buka/tutup panel</li>
+                    <li>Koreksi waktu sholat ±5 menit per waktu di pengaturan Perhitungan</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 23:30:00 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.7/RamadhanBar-1.0.7.dmg" length="5262224" type="application/octet-stream" sparkle:edSignature="PSzY//RFjd49pnUU3GiLwUy3xwDkMa5AOltJ5dJeNDAre9J4OM6YCAW10BTOqV3YvsSYcM5H20DAJ1P0k9H6Dw=="/>
+        </item>
+        <item>
+            <title>1.0.6</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Dukungan Universal Binary — sekarang bisa diinstall di MacBook Intel dan Apple Silicon</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 22:00:00 +0700</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.6/RamadhanBar-1.0.6.dmg" length="4606277" type="application/octet-stream" sparkle:edSignature="xMGrDikmqJYbzno/IYUAEljfLBn8zKEmB5wACs2VWw6OPBA2rbSLiny/4d/AxJsVdlPt9+hFyJVB/7ar17CRBA=="/>
+        </item>
+        <item>
             <title>1.0.5</title>
-            <pubDate>Thu, 05 Mar 2026 10:53:21 +0700</pubDate>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix countdown stuck di 0:00 setelah waktu sholat masuk</li>
+                    <li>Countdown merah kedip saat kurang dari 5 menit menjelang waktu sholat</li>
+                    <li>Hilangkan focus ring biru pada tombol tab dan bottom bar</li>
+                    <li>Perlebar area pengaturan</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 11:13:29 +0700</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.8/RamadhanBar-1.0.8.dmg" length="4015895" type="application/octet-stream" sparkle:edSignature="Gy5Iveiqt7oaiPSJBNzWH2wjXvcQuX1/XN6fD3THEYMqooJO3SYLTHCGV3PysMT+FU1VugPY+vpLdgfFMKg2Dw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.8/RamadhanBar6-1.delta" sparkle:deltaFrom="1" length="1624582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mDeaOqxBUaO7Yxt3T5soyxLGdM65cGtUjXaPItpdIIvyfU8HebmRaZQHzIFgUbb8JrRRZJSe29IWBZpnKlhPCw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.5/RamadhanBar-1.0.5.dmg" length="3473995" type="application/octet-stream" sparkle:edSignature="5VJhkfYeTrL7Y1+i4Ad7VL2EoSc2yN1jTS26oX8FEg2Rl3mVI6Xz364/9yolHCRvgAgC5rQRIXLquodMO5WcAQ=="/>
+        </item>
+        <item>
+            <title>1.0.4</title>
+            <description><![CDATA[
+                <ul>
+                    <li>3 suara adzan dipindah ke on-demand download — ukuran app jauh lebih kecil</li>
+                    <li>Hanya suara Nasser Al-Qatami yang bundled, sisanya didownload saat dipilih</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 17:03:50 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.4/RamadhanBar-1.0.4.dmg" length="3465645" type="application/octet-stream" sparkle:edSignature="WcCAm7qH5iZPzWv3d/W8kqhDQRH9rTiinzrvf/sykAzQj5PyBhDBlg0cEvIwIN2XSyqcMHSeKQa9if2fYBevAQ=="/>
+        </item>
+        <item>
+            <title>1.0.3</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Kompresi audio adzan dari PCM ke AAC — ukuran app turun dari ~62MB ke ~17MB</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 16:32:09 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.3/RamadhanBar-1.0.3.dmg" length="12609464" type="application/octet-stream" sparkle:edSignature="3ob1xSapXNhiwvX7ISaaHNhAjhDdDP0ASyrPQpj4WGOJIfomvMvGCFeT/xeXHbPX1Vwm53uHFEprm0+R7ZDFBg=="/>
+        </item>
+        <item>
+            <title>1.0.2</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix suara adzan tidak berbunyi saat waktu sholat tiba</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 15:23:14 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.2/RamadhanBar-1.0.2.dmg" length="54659669" type="application/octet-stream" sparkle:edSignature="EgSZUamcsO/E5RCShc+gxPY/msPUVbkdVPbe8xPyPosktCgicSkrQ+6b7sdVXrkm1osOLG5nVCClG+oJD9hxDQ=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Fix suara adzan Nasser Al-Qatami yang terpotong (29s → 2:14 full)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 21 Feb 2026 14:45:47 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.1/RamadhanBar-1.0.1.dmg" length="54658856" type="application/octet-stream" sparkle:edSignature="PeFNkUm+/lN2xtHff1FYYHa2C8SvLLImgddqARovF6cfYj0uvZMEzIU3/B2WMEDQSKyCEocpG/lyovL5HteFBg=="/>
         </item>
         <item>
             <title>1.0.0</title>
@@ -19,7 +132,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.8/RamadhanBar-1.0.0.dmg" length="51859729" type="application/octet-stream" sparkle:edSignature="xZVRXM78Gw0gQ8o3cTHXhMZD5m5iOgefOqYCB8Er/gmbHQamhmhHRWXBeTY0L11UdGhLj+i6mg9cQ3XwCeeSCA=="/>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.0/RamadhanBar-1.0.0.dmg" length="51859729" type="application/octet-stream" sparkle:edSignature="xZVRXM78Gw0gQ8o3cTHXhMZD5m5iOgefOqYCB8Er/gmbHQamhmhHRWXBeTY0L11UdGhLj+i6mg9cQ3XwCeeSCA=="/>
         </item>
     </channel>
 </rss>
