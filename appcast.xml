@@ -3,6 +3,23 @@
     <channel>
         <title>RamadhanBar</title>
         <item>
+            <title>1.0.10</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Pilihan 42+ kota populer Indonesia untuk pengaturan lokasi</li>
+                    <li>Pencarian kota dengan geocoding otomatis</li>
+                    <li>Validasi koordinat latitude/longitude</li>
+                    <li>Auto-update lokasi saat berpindah tempat (mode GPS)</li>
+                    <li>Info lokasi di footer panel utama</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 13 Mar 2026 11:00:00 +0700</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/daffigusti/RamadhanBar-releases/releases/download/v1.0.10/RamadhanBar-1.0.10.dmg" length="2967122" type="application/octet-stream" sparkle:edSignature="RdLJ/KapkxGkbjRR+nm2WsfidZtFV3ucuEUq1HIR4GkLn1qaGNwJawZRgkNIJZldbnz8K7HyClXEUDLsYPMjDg=="/>
+        </item>
+        <item>
             <title>1.0.9</title>
             <description><![CDATA[
                 <ul>
